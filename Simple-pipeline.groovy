@@ -13,7 +13,7 @@ pipeline {
             steps {
                 echo "ne pon"
                 sh "chmod 700 test-file"
-                echo "rabotaet blet"
+                echo "rabotaet"
             }
         }
         stage('final') {
